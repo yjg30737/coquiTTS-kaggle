@@ -1,6 +1,8 @@
 # coquiTTS-kaggle
 Using coquiTTS in kaggle notebook
 
+https://www.kaggle.com/code/yoonjunggyu/basic-coquitts-usage-in-kaggle
+
 1. Press "Copy & Edit".
 2. Press "Run All".
 3.
